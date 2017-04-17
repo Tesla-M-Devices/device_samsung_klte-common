@@ -75,10 +75,6 @@ PRODUCT_PACKAGES += \
     libxml2 \
     Snap
 
-# Doze
-PRODUCT_PACKAGES += \
-    SamsungDoze
-
 # Fingerprint
 PRODUCT_PACKAGES += \
     fingerprintd \
